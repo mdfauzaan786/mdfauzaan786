@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @mdfauzaan786
-- 👀 I’m interested in coding...
-- 🌱 I’m currently in my B.E 4th year...
-- 💞️ I’m looking to collaborate on mostly projects...
-- 📫 How to reach me on fauzaanmd786@gmail.com...
+# 👋 Hi, I’m Mohammed Fauzaan  
 
-<!---
-mdfauzaan786/mdfauzaan786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 I’ve completed my Bachelor of Engineering in CSE (AI & ML).  
+- 💼 I’m currently preparing for roles in Data Engineering, AI/ML Engineering, Full-Stack, and Cloud.  
+- 🧠 Skilled in Python, Java, Machine Learning, Deep Learning, Data Quality, Ataccama ONE, Talend, AWS, and Linux.  
+- 🤝 I’m open to collaborating on AI/ML, Data Engineering, and Automation projects.  
+- 📝 I share technical writing and insights on my blog: The Infinite Scroll.  
+- 📬 Reach me at: fauzaanmd786@gmail.com
+
+<!--  
+This is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+-->
